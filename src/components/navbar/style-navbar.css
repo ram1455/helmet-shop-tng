@@ -1,0 +1,21 @@
+nav {
+    height: 10vh;
+    background-color: #1b2631;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0px;
+    color: white;
+
+    font-family: poppins;
+}
+
+.logo {
+    margin: 0;
+    width: 20%;
+}
+
+.title {
+    margin: 0;
+    margin-left: 20px;
+}
