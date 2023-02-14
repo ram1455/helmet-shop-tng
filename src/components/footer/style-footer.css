@@ -1,0 +1,10 @@
+footer {
+    background-color: rgb(18, 18, 18);
+    /* height: 10vh; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: poppins;
+    padding: 3vh 0;
+}
