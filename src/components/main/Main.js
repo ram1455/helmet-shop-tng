@@ -23,9 +23,9 @@ export default function Main() {
             <img src={`./images/${item.image_url}`} alt="" />
             <div className='badge_terjual'><p>TERJUAL</p></div>
           </div>
-          {/* <div className='item-name'>
+          <div className='item-name'>
              <h1>HELM PLACEHOLDER</h1>
-          </div> */}
+          </div>
         </div>
         )
   })

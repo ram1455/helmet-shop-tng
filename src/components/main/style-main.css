@@ -31,23 +31,17 @@ main {
     transition: .3s;
 }
 
-.item-container:hover {
-    flex-grow: .4;
-}
 
 
 .item-container img {
     margin: 0;
     width: 100%;
-    transition: .3s;
 }
 
 .item-container h1 {
     font-size: 3.5vh;
     margin: 0;
 }
-
-
 
 .item-name {
     background-color: white;
@@ -72,7 +66,6 @@ main {
     margin: 0;
     background-color: rgb(255, 45, 45);
     box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .3);
-    transition: .3s;
 }
 
 .badge_ada {
@@ -84,7 +77,6 @@ main {
     margin: 0;
     background-color: rgb(255, 45, 45);
     box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .3);
-    transition: .3s;
 }
 
 .badge_terjual p, .badge_ada p {
