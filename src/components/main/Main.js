@@ -4,9 +4,10 @@ import "./style-main.css"
 
 import helmetData from "../../helmetData"
 
-export default function Main() {
+export default function Main({click}) {
   console.log(helmetData)
-
+  console.log(click);
+ 
   const barangs = helmetData.map( item => {
         
         // return ( <div className='item-container'>
@@ -24,7 +25,8 @@ export default function Main() {
             <div className='badge_terjual'><p>TERJUAL</p></div>
           </div>
           <div className='item-name'>
-             <h1>HELM PLACEHOLDER</h1>
+             <p className='helm-name' >{item.nama}</p>
+             <h1>{item.price}</h1>
           </div>
         </div>
         )

@@ -1,6 +1,6 @@
 const data = [
     {
-        nama : 'KYT TT COURSE DOVIZIOSO',
+        nama : 'KYT TTC DOVIZIOSO',
         size : 'L',
         support_IC: true,
 
@@ -30,7 +30,7 @@ const data = [
         image_url : './KYT-R10-BLACK-DOFF.png'
     },
     {
-        nama : 'ZEUS 811 DARUMA RED GLOSSY',
+        nama : 'ZEUS 811 DARUMA RED',
         size : 'L',
         support_IC: false,
 
@@ -45,7 +45,7 @@ const data = [
         image_url : './ZEUS-811-DARUMA-RED.png'
     },
     {
-        nama : 'ZEUS 811 DARUMA BLUE GLOSSY',
+        nama : 'ZEUS 811 DARUMA BLUE',
         size : 'M',
         support_IC: false,
 
@@ -60,7 +60,7 @@ const data = [
         image_url : './ZEUS-811-DARUMA-BLUE.png'
     },
     {
-        nama : 'KYT-K2R-ORANGE.png',
+        nama : 'KYT K2R ORANGE',
         size : 'L',
         support_IC: false,
 
